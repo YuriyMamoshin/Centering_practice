@@ -1,1 +1,1 @@
-here we'll try centering techniques
+here we'll try some centering techniques
