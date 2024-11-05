@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+.centered {
+  background-color: red;
+  display: table;
+
+  height: 50px;
+  left: 50%;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+}
+
+span {
+  display: table-cell;
+  vertical-align: middle;
+}
